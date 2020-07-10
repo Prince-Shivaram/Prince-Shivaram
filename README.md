@@ -13,7 +13,8 @@
 - :hourglass_flowing_sand: Experimenting with JS and learning React
 - :microscope: Always ready to collaborate for Dev Experiments
 - :man_technologist: Project Lead Intern at GirlScript India Summit 2020
-- :mailbox: How to reach me: [**Linkedin**](https://www.linkedin.com/in/imsivram1999/) , [**Twitter**](https://twitter.com/prince_shivaram) , [**Facebook**](https://www.facebook.com/jonnalagadda.shivaram)
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition!
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking!
+- :mailbox: Reach out to me at my social media handles: <br>
+[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/imsivram1999/) [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/prince_shivaram) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
